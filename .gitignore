@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vite/
+*.db
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.playwright-mcp/
+.claude/
